@@ -1,0 +1,54 @@
+body {
+    background-color: lightgrey;
+    font-size: larger;
+    font-family: 'Kaushan Script', cursive;
+}
+
+#navi {
+    background-color: #ffffff;
+    height: 200px;
+    width: 1900px;
+    background-image: url("../images/banner.png");
+    background-repeat: no-repeat;
+    display: inline-block;
+    text-align: center;
+    margin: 0 auto 0 auto;
+}
+
+.topnav {
+    margin-top: 30px;
+    margin-bottom: 10px;
+    color: rgb(13, 13, 88);
+}
+a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: initial;
+}
+
+#summaryId {
+    margin-top: 30px;
+    margin-left:5px;
+    margin-right:5px;
+    margin-bottom:10px;
+    color: seashell; 
+    background-color:  #4d3630;
+}
+
+.icon1 {
+    width: 120px;
+    height: 120px;
+}
+#about-summary {
+    margin-top: 30px;
+    margin-bottom:10px;
+    color: seashell; 
+    background-color:  #4d3630;
+}
+
+.card {
+    margin: 15px;
+}
